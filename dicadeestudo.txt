@@ -1,0 +1,25 @@
+Dicas de estudo!
+
+justify-content (en-US) — controla o alinhamento de todos os itens no eixo principal. align-items — controla o alinhamento de todos os itens no eixo transversal. align-self — controla o alinhamento individual de um item no eixo transversal.
+
+O que faz o display flex?
+
+Quando usamos display:flex em um elemento ele vira um flex container, o que diz que todos elementos que estiver dentro dele fica em linha (um ao lado do outro) ocupando todo o espaço dentro daquele container, ele por si alimha os intens do container em linhas.
+
+O que faz o align-items:center ?
+
+Ele faz um alinhamento vertical dos intens e com o valor center ele está alinhando os itens na vertical do centro. ou seja o align-items puxa o elemento para vertical e o valor diz em qual lugar da vertical ele fica, nesse caso ele fica no centro.
+
+O que fax o justify-content ?
+
+É empregada para alinhar os elementos ao longo do eixo principal, cuja direção ( row ou column ) é definida a partir da propriedade flex-direction.
+
+O que faz no css o justify-content: space-around?
+
+Serve para gerar uma quantidade igual de espaço à direita e à esquerda do elemento.
+
+O que faz o flex-direction:
+
+Define como os itens flexíveis são colocados no contêiner flexível, definindo o eixo principal e a direção (normal ou invertido)
+
+Bom o flex direction é uma pripriedade que podemos disctacar ela como coluna (column), coluna reversa(column-reverse, linha(row) e linha reversa(row-reverse).
